@@ -18,7 +18,7 @@ void InsertionSorter(vector<int>& newMyVector)
 	if (newMyVector.size() > 1)
 	{
 		int size = newMyVector.size();
-		for (int i = 1; i < size; ++i)
+		for (int i  = 1; i < size; ++i)
 		{
 			int j = i - 1;
 			int key = newMyVector[i];
