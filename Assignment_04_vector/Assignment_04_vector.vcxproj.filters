@@ -18,5 +18,8 @@
     <ClCompile Include="Insertation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bubble_sort_using_vector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
