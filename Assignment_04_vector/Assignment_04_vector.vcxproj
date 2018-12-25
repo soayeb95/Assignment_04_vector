@@ -117,6 +117,8 @@
   <ItemGroup>
     <ClCompile Include="bubble_sort_using_vector.cpp" />
     <ClCompile Include="Insertation.cpp" />
+    <ClCompile Include="mergesort.cpp" />
+    <ClCompile Include="selectionsort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
