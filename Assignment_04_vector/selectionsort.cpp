@@ -7,7 +7,7 @@ void SelectionSorter(vector<int>& newMyVector);
 
 int main()
 {
-    vector<int>myVector;
+    vector<int>myVector{ 10,33,27,14,35,19,48,44 };
     SelectionSorter(myVector);
 
 }

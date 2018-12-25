@@ -55,7 +55,7 @@ void MergeSorter(vector<int>& newMyVector)
 
 main()
 {
-    vector<int>myVector;
+    vector<int>myVector{ 10,33,27,14,35,19,48,44 };
     MergeSort(newMyVector);
 
 }
